@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "876001176899",
+    "project_id": "black-cabs-flutter",
+    "storage_bucket": "black-cabs-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876001176899:android:3121f57c7e96acf9b1d3f6",
+        "android_client_info": {
+          "package_name": "com.prostreet1212.black_cabs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdBZ_i2WGFy1Xv_7ArUNn1NnBZD2FNaYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
